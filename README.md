@@ -16,7 +16,7 @@
 # ㅤㅤㅤCʀᴇᴅɪᴛs ✌
 
 
-- [ᴠᴇɴᴏᴍ](https://github.com/venombolteop)ㅤㅤㅤ
+- [ᴀʀᴍᴀɴ](https://github.com/venombolteop)ㅤㅤㅤ
 
 - [ɢᴇɴɪᴜs-ᴜsᴇʀʙᴏᴛ](https://github.com/AdityaHalder/Genius-Userbot)ㅤㅤㅤㅤㅤ
 
