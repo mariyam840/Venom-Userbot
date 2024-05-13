@@ -1,4 +1,4 @@
-# Powered By // @Venomowners //
+# Powered By // @Dil_Ka_Ehsaas //
 
 __NAME__ = "VcBot"
 __MENU__ = """
