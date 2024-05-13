@@ -11,14 +11,14 @@ async def help_menu_logo(answer):
     if image:
         thumb_image = image
     else:
-        thumb_image = "https://te.legra.ph/file/0b373de1c657129297c39.jpg"
+        thumb_image = "https://graph.org/file/b7c994d5a46f9fa19b83f.jpg"
     button = paginate_plugins(0, plugs, "help")
     answer.append(
         InlineQueryResultPhoto(
             photo_url=f"{thumb_image}",
             title="🥀 Help Menu ✨",
             thumb_url=f"{thumb_image}",
-            description=f"🥀 Open Help Menu Of VenomX-Userbot ✨...",
+            description=f"🥀 Open Help Menu Of ArmanX-Userbot ✨...",
             caption=f"""
 **🥀 Welcome To Help Menu Of
 ArmanX Userbot » {__version__} ✨...
