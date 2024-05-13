@@ -21,12 +21,12 @@ async def help_menu_logo(answer):
             description=f"🥀 Open Help Menu Of VenomX-Userbot ✨...",
             caption=f"""
 **🥀 Welcome To Help Menu Of
-VenomX Userbot » {__version__} ✨...
+ArmanX Userbot » {__version__} ✨...
 
 Click On Below 💖 Buttons To
 Get Userbot Commands.
 
-💕Powered By : [Venom](https://t.me/Venomowners).**
+💕Powered By : [Arman](https://t.me/Dil_Ka_Ehsaas).**
             """,
             reply_markup=InlineKeyboardMarkup(button),
         )
@@ -42,12 +42,12 @@ async def help_menu_text(answer):
             title="🥀 Help Menu ✨",
             input_message_content=InputTextMessageContent(f"""
 **🥀 Welcome To Help Menu Of
-VenomX Userbot » {__version__} ✨...
+ArmanX Userbot » {__version__} ✨...
 
 Click On Below 💓 Buttons To
 Get Userbot Commands.
 
-💘Powered By : [Venom](https://t.me/VenomOwners).**""",
+💘Powered By : [Arman](https://t.me/Dil_Ka_Ehsaas).**""",
             disable_web_page_preview=True
             ),
             reply_markup=InlineKeyboardMarkup(button),
