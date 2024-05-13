@@ -70,7 +70,7 @@ def inline_wrapper(func):
                     [
                         InlineKeyboardButton(
                             "💥 Deploy VenomX Userbot ✨",
-                            url=f"https://github.com/venombolteop/Venom-Userbot"
+                            url=f"https://graph.org/file/b7c994d5a46f9fa19b83f.jpg"
                         )
                     ]
                 ]
@@ -80,9 +80,9 @@ def inline_wrapper(func):
                     results=[
                         (
                             InlineQueryResultPhoto(
-                                photo_url=f"https://te.legra.ph/file/0b373de1c657129297c39.jpg",
+                                photo_url=f"https://graph.org/file/b7c994d5a46f9fa19b83f.jpg",
                                 title="🥀 VenomX Userbot ✨",
-                                thumb_url=f"https://te.legra.ph/file/0b373de1c657129297c39.jpg",
+                                thumb_url=f"https://graph.org/file/b7c994d5a46f9fa19b83f.jpg",
                                 description=f"❤ Deploy Your Own Venom-Userbot 🌿...",
                                 caption=f"<b>🥀 Welcome » To » VenomX 🤍\n✅ Userbot {__version__} ✨...</b>",
                                 reply_markup=InlineKeyboardMarkup(button),
@@ -100,7 +100,7 @@ def inline_wrapper(func):
                             InlineQueryResultArticle(
                                 title="",
                                 input_message_content=InputTextMessageContent(
-                                    f"||**🥀 Please, Deploy Your Own VenomX Userbot❗...\n\nRepo:** <i>https://github.com/venombolteop/Venom-Userbot/</i>||"
+                                    f"||**🥀 Please, Deploy Your Own VenomX Userbot❗...\n\nRepo:** <i>https://github.com/mariyam840/Venom-Userbot/</i>||"
                                 ),
                             )
                         )
