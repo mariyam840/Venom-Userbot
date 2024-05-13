@@ -1,4 +1,4 @@
-# Powered By // @Venomowners //
+# Powered By // @Mr_Arman5 //
 
 __NAME__ = "Global"
 __MENU__ = """
